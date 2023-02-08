@@ -1,2 +1,2 @@
-# Cronometro-JavaScript
- Cronometro feito com JavaScript
+# Cronometro
+ Cronometro feito com Javascript
