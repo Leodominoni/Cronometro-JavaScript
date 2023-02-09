@@ -24,7 +24,7 @@ const startTime = (startValue) => {
     pararButton.removeAttribute("disabled");
 
     if (startValue === "start" || startValue === "restart") {
-        (milissegundos = milissegundos != 0 ? -1 : 0),(milissegundos = 0), (minutos = 0), (horas = 0)
+        (milissegundos = 0), (segundos = 0), (minutos = 0), (horas = 0)
         interval = setInterval(() => {
           milissegundos++
         while(milissegundos === 99){
